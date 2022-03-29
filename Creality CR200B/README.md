@@ -1,7 +1,7 @@
 # Creality CR-200B by StoneTime
 
 ## Umbauten:
-- SKR E3 Turbo Board - https://amzn.to/3LngoFR
+- SKR E3 mini V3 Board
 - OSOYOO 3.5 Inch DSI Touchscreen LCD Display - https://amzn.to/3NuptOW
 - Raspberry Pi 3 Model B - https://amzn.to/36V6yMG
 - BMG Extruder - https://amzn.to/3tPQEw8
@@ -18,5 +18,5 @@
 - Neue Teile
 	- Hotend Halterung
 	- Abdeckplatte mit 120mm Lüfter im Boden
-	- SKR E3 Turbo Halterung
+	- SKR E3 mini V3 Board Halterung
 	- Display Halterung
